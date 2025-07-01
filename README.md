@@ -1,10 +1,12 @@
-
-<h1 align="center">ORIKOME</h1>
+<h1 align="center">
+  <ruby>オリコメ<rt> o r i k o m e </rt>
+  </ruby>
+</h1>
 
 <p align="center">
-  I enjoy creating games as a means of expressing my creativity and it is even more fulfilling if others deem it valuable too.
+  <em>
+    Games let me express<br>
+    my creativity freely.<br>
+    Shared joy doubles it.
+  </em>
 </p>
-
-
-
-
