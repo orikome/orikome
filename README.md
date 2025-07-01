@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     Games let me express<br>
-    my creativity freely.<br>
-    Shared joy doubles it.
+    Creativity unleashed⟶<br>
+    Shared joy doubles it
   </em>
 </p>
